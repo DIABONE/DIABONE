@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @DIABONE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Hi, I’m @DIABONE Jean Claude Filbert
+- 👀 I’m interested in:
+    Database, Data Analysis and Modelling, Statistics, Data Visualization.
+- 🌱 I’m currently learning:
+  Linux-terminal, Advanced Data Manipulation in SQL and Python, Git Pro, Python Pro App Streamlit SRS, Python Pro Create and Request an API with FASTApi, Spark, Introduction to Airflow
+- 💞️ I’m looking to collaborate on:
+  **Data extraction and structuring** (Extract Data needed for analysis...), **Data Analysis and exploration** (Analyze Data, Create Dashbords, Statistical Modelling ...) 
+- 📫 How to reach me **jeanclaude.diabone@gmail.com**
+  
 
 <!---
 DIABONE/DIABONE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
