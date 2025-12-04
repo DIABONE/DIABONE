@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DIABONE Jean Claude Filbert
 - 👀 I’m interested in:
-    Database, Data Analysis and Modelling, Statistics, Data Visualization.
+    Database, Data Analysis and Modelling, Statistics, Data Visualization, Machine Learning.
 - 🌱 I’m currently learning:
   Linux-terminal, Advanced Data Manipulation in SQL and Python, Git Pro, Python Pro App Streamlit SRS, Python Pro Create and Request an API with FASTApi, Spark, Introduction to Airflow
 - 💞️ I’m looking to collaborate on:
