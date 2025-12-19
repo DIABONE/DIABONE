@@ -19,6 +19,9 @@
 ![Git Bash](https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
+![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-blue?style=for-the-badge&logo=powerbi&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transform-green?style=for-the-badge&logo=microsoft&logoColor=white)
+
 
 - 🛢Base de donées:
   
