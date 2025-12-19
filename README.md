@@ -1,4 +1,4 @@
-![Image Alt](https://github.com/DIABONE/test_git/blob/5e5759d57b7499e06a504ccf4d2b31e3992d1148/data_scientist_1.jpg/ width="500") 
+![Image Alt](https://github.com/DIABONE/test_git/blob/5e5759d57b7499e06a504ccf4d2b31e3992d1148/data_scientist_1.jpg/width="500") 
 - 👋 Hi, I’m @DIABONE Jean Claude Filbert
 - 👀 I’m interested in:
     Database, Data Analysis and Modelling, Statistics, Data Visualization, Machine Learning.
